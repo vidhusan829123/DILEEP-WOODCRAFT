@@ -1,0 +1,6 @@
+{
+  "name": "DILEEP WOODCRAFT",
+  "description": "Expert Carpentry & Custom Woodwork crafted with precision by Master Carpenter Dileep in Ibbagamuwa, Sri Lanka. Handcrafted Teak Wood beds, glass tables, custom windows, and luxury cabinetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
